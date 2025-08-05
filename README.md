@@ -33,7 +33,7 @@ Welcome to Mom's Magic, a web-based food delivery application powered by the MER
 
 ## Technologies Used
 
-- **Front-end:** React.js, Redux for state management, Bootstrap for a responsive and visually appealing design.
+- **Front-end:** React.js for a responsive and visually appealing design.
 - **Back-end:** Node.js, Express.js, MongoDB for robust data storage and retrieval.
 - **Authentication:** JSON Web Tokens (JWT) for a secure and seamless user authentication process.
 - **Payment Integration:** Razorpay for trusted and secure payment processing.
